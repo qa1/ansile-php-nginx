@@ -1,0 +1,1 @@
+<?php echo "Yaaay! your server is ready...";
